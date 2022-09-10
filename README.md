@@ -44,10 +44,10 @@ The analysis of the election show that:
   - Diana DeGette, with 73.8% of the vote and 272,892 total votes.
 
 ## Election Audit Summary
-The election commission may use this script whenever they have a .csv file that collects the candidate name and county of each voter associated with a unique voter ID. The script will determine the number of candidates and number of counties, and will print the total votes/percentage of the total vote for each candidate and county. The script will also print our the winner of the election and the county with the highest turnout.\n
+The election commission may use this script whenever they have a .csv file that collects the candidate name and county of each voter associated with a unique voter ID. The script will determine the number of candidates and number of counties, and will print the total votes/percentage of the total vote for each candidate and county. The script will also print our the winner of the election and the county with the highest turnout.
 
   -For use in future elections, the script can be modified in the following ways:
 
-    -1. Changing the join() function for the "file_to_load" and "file_to_save" variables to reflect the correct file path/csv file. 
-    
-    -2. Changing the "candidate_name" and "county_name" variables to reference the correct index number according to the csv file. 
+    1. Changing the join() function for the "file_to_load" and "file_to_save" variables to reflect the correct file path/csv file. 
+
+    2. Changing the "candidate_name" and "county_name" variables to reference the correct index number according to the csv file. 
