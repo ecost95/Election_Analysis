@@ -35,7 +35,7 @@ The analysis of the election show that:
 ## Challenge Overview
 ## Challenge Summary
  
- Overview of Election Audit: Explain the purpose of this election audit analysis
+ Overview of Election Audit: Explain the purpose of this election audit analysis..
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
